@@ -12109,3 +12109,7 @@ button:focus {
 .btn-404 i svg {
     fill: var(--clr-white);
 }
+
+.nav-item .nav-link:hover {
+    color: var(--clr-def) !important;
+}
